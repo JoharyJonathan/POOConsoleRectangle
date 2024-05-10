@@ -1,0 +1,6 @@
+E:\C# projects\ConsoleRectangle\ConsoleRectangle\bin\Debug\ConsoleRectangle.exe.config
+E:\C# projects\ConsoleRectangle\ConsoleRectangle\bin\Debug\ConsoleRectangle.exe
+E:\C# projects\ConsoleRectangle\ConsoleRectangle\bin\Debug\ConsoleRectangle.pdb
+E:\C# projects\ConsoleRectangle\ConsoleRectangle\obj\Debug\ConsoleRectangle.csprojResolveAssemblyReference.cache
+E:\C# projects\ConsoleRectangle\ConsoleRectangle\obj\Debug\ConsoleRectangle.exe
+E:\C# projects\ConsoleRectangle\ConsoleRectangle\obj\Debug\ConsoleRectangle.pdb
